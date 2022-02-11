@@ -1,22 +1,22 @@
 # Site settings
-title: Long Journey # 你的博客名字，可以定义修订
+title: 昼夜 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "hey"  # 一句话描述你的博客
+description: "This is a long long long way to go"  # 一句话描述你的博客
 baseurl: ""
-url: "http://znecho"  # 此处填写你的博客地址 
+url: "znecho.com"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
   name: "林子楠" # 填写作者信息：名字
-  email: 897883985@qq.com # 填写作者信息：邮箱
+  email: peacelzn@qq.com # 填写作者信息：邮箱
   bio: "Hey" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
-douban_username:  # 你的豆瓣id
+douban_username:  # znecho
 twitter_username: 
 github_username: 
 facebook_username: 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "林子楠" # 你的名字
+      author: "LZN" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
