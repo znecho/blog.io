@@ -1,6 +1,6 @@
 ---
 layout: post
-title: blank
+title: -
 date: 2022-02-11
 categories: blog
 tags: [-,-]
