@@ -1,7 +1,7 @@
 # Site settings
 title: 昼夜 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
-tagline: "cn"  
+tagline: " "
 description: "This is a long long long way to go"  # 一句话描述你的博客
 baseurl: ""
 url: "znecho.com"  # 此处填写你的博客地址 
